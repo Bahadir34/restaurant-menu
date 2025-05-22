@@ -45,7 +45,7 @@ Projeye katkıda bulunmak isterseniz **pull request** açabilirsiniz.
 
 ## 🌐 Canlı Önizleme
 
-![](./project-views/restaurant-menu-live.mov)
+![](./project-views/restaurant-menu.gif)
 
 ---
 
